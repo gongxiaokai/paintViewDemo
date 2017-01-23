@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  作业1
+//  PaintView
 //
 //  Created by gongwenkai on 2016/12/11.
 //  Copyright © 2016年 gongwenkai. All rights reserved.

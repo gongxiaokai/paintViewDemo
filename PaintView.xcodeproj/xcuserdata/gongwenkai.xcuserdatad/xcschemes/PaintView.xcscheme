@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8B5AED711DFD0CA700A2DC87"
-               BuildableName = "&#x4f5c;&#x4e1a;1.app"
-               BlueprintName = "&#x4f5c;&#x4e1a;1"
-               ReferencedContainer = "container:&#x4f5c;&#x4e1a;1.xcodeproj">
+               BuildableName = "PaintView.app"
+               BlueprintName = "PaintView"
+               ReferencedContainer = "container:PaintView.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8B5AED711DFD0CA700A2DC87"
-            BuildableName = "&#x4f5c;&#x4e1a;1.app"
-            BlueprintName = "&#x4f5c;&#x4e1a;1"
-            ReferencedContainer = "container:&#x4f5c;&#x4e1a;1.xcodeproj">
+            BuildableName = "PaintView.app"
+            BlueprintName = "PaintView"
+            ReferencedContainer = "container:PaintView.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8B5AED711DFD0CA700A2DC87"
-            BuildableName = "&#x4f5c;&#x4e1a;1.app"
-            BlueprintName = "&#x4f5c;&#x4e1a;1"
-            ReferencedContainer = "container:&#x4f5c;&#x4e1a;1.xcodeproj">
+            BuildableName = "PaintView.app"
+            BlueprintName = "PaintView"
+            ReferencedContainer = "container:PaintView.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8B5AED711DFD0CA700A2DC87"
-            BuildableName = "&#x4f5c;&#x4e1a;1.app"
-            BlueprintName = "&#x4f5c;&#x4e1a;1"
-            ReferencedContainer = "container:&#x4f5c;&#x4e1a;1.xcodeproj">
+            BuildableName = "PaintView.app"
+            BlueprintName = "PaintView"
+            ReferencedContainer = "container:PaintView.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
